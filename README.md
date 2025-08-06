@@ -1,3 +1,14 @@
+ Screenshot
+
+
+
+![Click Counter Demo](before.png)
+
+![output](after.png)
+
+
+
+
 # Click Counter
 
 A super‑simple web app that tracks how many times you click a button.  
@@ -13,7 +24,7 @@ A single page with a button and a live count display. Click the button, the numb
 
 index.html — the app  
 README.md — this file  
-screenshot.png
+screenshots
 
  Known Limitations
 
