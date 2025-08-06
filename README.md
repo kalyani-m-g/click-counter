@@ -1,14 +1,3 @@
- Screenshot
-
-
-
-![Click Counter Demo](before.png)
-
-![output](after.png)
-
-
-
-
 # Click Counter
 
 A super‑simple web app that tracks how many times you click a button.  
